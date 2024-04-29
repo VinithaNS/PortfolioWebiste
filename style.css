@@ -1,0 +1,53 @@
+.header {
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.header__contact {
+    background-color: orangered;
+    color: white;
+    padding: 5px;
+    border: none;
+    border: 1px solid orangered;
+    text-decoration: none;
+}
+
+.header__about {
+    padding: 10px;
+}
+
+.header__interest {
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.header__interest1 {
+    display: inline-block;
+    height: 300px;
+    width: 500px;
+    background-color: orangered;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.header1 {
+    display: flex;
+    gap: 10px;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.footer__insta {
+    color: white;
+    padding: 5px;
+}
